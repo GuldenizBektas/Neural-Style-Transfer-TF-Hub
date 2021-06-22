@@ -4,6 +4,8 @@
 
 Neural style transfer is an optimization technique used to take two images—a content image and a style reference image (such as an artwork by a famous painter)—and blend them together so the output image looks like the content image, but “painted” in the style of the style reference image.
 
+Model is taken from TensorFlow Hub. The <a href=https://tfhub.dev/google/magenta/arbitrary-image-stylization-v1-256/2>link</a> for the pre-trained model.
+
 You can find the style, and content images in <a href = "https://github.com/GuldenizBektas/Neural-Style-Transfer-TF-Hub/tree/main/Images">Images</a> directory.
 * Van Gogh - Starry Nights
 * Van Gogh - Wheatfield with Crows
